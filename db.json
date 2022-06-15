@@ -1,0 +1,145 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "Deo",
+          "alamat": "Semarang",
+          "umur": "24",
+          "noHp": "08123456789"
+        },
+        {
+          "id": 2,
+          "nama": "Bayu",
+          "alamat": "Jogja",
+          "umur": "20",
+          "noHp": "08888888888"
+        },
+        {
+          "id": 3,
+          "nama": "Bambang",
+          "alamat": "Solo",
+          "umur": "40",
+          "noHp": "081818181818"
+        },
+        {
+          "id": 4,
+          "nama": "Deo",
+          "alamat": "Semarang",
+          "umur": "24",
+          "noHp": "08123456789"
+        },
+        {
+          "id": 5,
+          "nama": "Bayu",
+          "alamat": "Jogja",
+          "umur": "20",
+          "noHp": "08888888888"
+        },
+        {
+          "id": 6,
+          "nama": "Bambang",
+          "alamat": "Solo",
+          "umur": "40",
+          "noHp": "081818181818"
+        },
+        {
+            "id": 7,
+            "nama": "Ahmad",
+            "alamat": "Jogja",
+            "umur": "33",
+            "noHp": "088888818818"
+          },
+          {
+            "id": 8,
+            "nama": "Tri",
+            "alamat": "Nganjuk",
+            "umur": "19",
+            "noHp": "08888888888"
+          },
+          {
+            "id": 9,
+            "nama": "Yanto",
+            "alamat":"Kediri",
+            "umur": "42",
+            "noHp": "081818181818"
+          },
+          {
+            "id": 10,
+            "nama": "Agus",
+            "alamat": "Kalimalang",
+            "umur": "22",
+            "noHp": "081818181818"
+          },
+
+          {
+            "id": 11,
+            "nama": "Yus",
+            "alamat": "Surabaya",
+            "umur": "44",
+            "noHp": "08123456789"
+          },
+          {
+            "id": 12,
+            "nama": "Astri",
+            "alamat": "Jakarta",
+            "umur": "22",
+            "noHp": "08888888888"
+          },
+          {
+            "id": 13,
+            "nama": "Tono",
+            "alamat": "Semarang",
+            "umur": "24",
+            "noHp": "081818181818"
+          },
+          {
+            "id": 14,
+            "nama": "Nida",
+            "alamat": "Tulungagung",
+            "umur": "55",
+            "noHp": "08123456789"
+          },
+          {
+            "id": 15,
+            "nama": "Ani",
+            "alamat": "Purwokerto",
+            "umur": "33",
+            "noHp": "08888888888"
+          },
+          {
+            "id": 16,
+            "nama": "Triwulandari",
+            "alamat": "Malang",
+            "umur": "25",
+            "noHp": "081818181818"
+          },
+          {
+              "id": 17,
+              "nama": "Dono",
+              "alamat": "Bekasi",
+              "umur": "60",
+              "noHp": "088888818818"
+            },
+            {
+              "id": 18,
+              "nama": "Andi",
+              "alamat": "Semarang",
+              "umur": "25",
+              "noHp": "08888888888"
+            },
+            {
+              "id": 19,
+              "nama": "Karol",
+              "alamat":"Pemalang",
+              "umur": "26",
+              "noHp": "081818181818"
+            },
+            {
+              "id": 20,
+              "nama": "Andika",
+              "alamat": "Boyolali",
+              "umur": "24",
+              "noHp": "081818181818"
+            }
+      ]
+}
